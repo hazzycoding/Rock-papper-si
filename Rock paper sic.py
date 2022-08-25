@@ -1,1 +1,1 @@
-print('Hello')
+print('Hello also known as Hola')
